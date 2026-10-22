@@ -18,3 +18,383 @@ saved checkpoint @ 0
   step    120 | loss 2.5879 | lr 2.42e-04 | 7050 tok/s | 1.8 min
   step    140 | loss 2.5899 | lr 2.82e-04 | 7132 tok/s | 2.0 min
   step    160 | loss 2.5401 | lr 3.22e-04 | 7177 tok/s | 2.3 min
+  step    180 | loss 2.5122 | lr 3.62e-04 | 7213 tok/s | 2.6 min
+step    200 | train 2.4789 | val 2.4626 | lr 4.02e-04 | 7043 tok/s | 2.9 min
+  step    200 | loss 2.4933 | lr 4.02e-04 | 7045 tok/s | 2.9 min
+  step    220 | loss 2.4400 | lr 4.42e-04 | 7094 tok/s | 3.2 min
+  step    240 | loss 2.4724 | lr 4.82e-04 | 7144 tok/s | 3.5 min
+  step    260 | loss 2.4573 | lr 5.22e-04 | 7188 tok/s | 3.7 min
+  step    280 | loss 2.4498 | lr 5.62e-04 | 7250 tok/s | 4.0 min
+  step    300 | loss 2.3915 | lr 6.00e-04 | 7275 tok/s | 4.2 min
+  step    320 | loss 2.4014 | lr 6.00e-04 | 7306 tok/s | 4.5 min
+  step    340 | loss 2.3936 | lr 6.00e-04 | 7350 tok/s | 4.8 min
+  step    360 | loss 2.3726 | lr 6.00e-04 | 7370 tok/s | 5.0 min
+  step    380 | loss 2.3638 | lr 6.00e-04 | 7380 tok/s | 5.3 min
+step    400 | train 2.2932 | val 2.2956 | lr 6.00e-04 | 7281 tok/s | 5.6 min
+--- sample @ 400 ---
+ROMEO:
+Orer dengeils m anou anch tr tothe a botom ced been!
+
+NIUSTIOMENVIO:
+O, which, hin atherd bear teare mat Ve'ss noer.
+Thant I somm lathu ato He thoour; yuri doot
+Cof bethave wooull thound his t be sove cithe muno we ho?
+
+QUCARERARK:
+N sk Or anof whein thist the yof desou whalled.
+He mathe he tho 'se
+---
+saved checkpoint @ 400
+  step    400 | loss 2.3755 | lr 6.00e-04 | 7250 tok/s | 5.7 min
+  step    420 | loss 2.3226 | lr 6.00e-04 | 7261 tok/s | 5.9 min
+  step    440 | loss 2.2818 | lr 6.00e-04 | 7284 tok/s | 6.2 min
+  step    460 | loss 2.2770 | lr 5.99e-04 | 7310 tok/s | 6.5 min
+  step    480 | loss 2.2775 | lr 5.99e-04 | 7331 tok/s | 6.7 min
+  step    500 | loss 2.2668 | lr 5.99e-04 | 7339 tok/s | 7.0 min
+  step    520 | loss 2.2193 | lr 5.99e-04 | 7343 tok/s | 7.3 min
+  step    540 | loss 2.1922 | lr 5.99e-04 | 7370 tok/s | 7.5 min
+  step    560 | loss 2.2194 | lr 5.98e-04 | 7390 tok/s | 7.8 min
+  step    580 | loss 2.1709 | lr 5.98e-04 | 7404 tok/s | 8.0 min
+step    600 | train 2.0753 | val 2.1138 | lr 5.98e-04 | 7339 tok/s | 8.4 min
+  step    600 | loss 2.1361 | lr 5.98e-04 | 7340 tok/s | 8.4 min
+  step    620 | loss 2.1209 | lr 5.98e-04 | 7350 tok/s | 8.7 min
+  step    640 | loss 2.1100 | lr 5.97e-04 | 7353 tok/s | 8.9 min
+  step    660 | loss 2.0673 | lr 5.97e-04 | 7359 tok/s | 9.2 min
+  step    680 | loss 2.0578 | lr 5.97e-04 | 7373 tok/s | 9.5 min
+  step    700 | loss 2.0518 | lr 5.96e-04 | 7376 tok/s | 9.7 min
+  step    720 | loss 1.9752 | lr 5.96e-04 | 7382 tok/s | 10.0 min
+  step    740 | loss 1.9786 | lr 5.96e-04 | 7387 tok/s | 10.3 min
+  step    760 | loss 2.0051 | lr 5.95e-04 | 7395 tok/s | 10.5 min
+  step    780 | loss 1.9824 | lr 5.95e-04 | 7400 tok/s | 10.8 min
+step    800 | train 1.8920 | val 1.9629 | lr 5.94e-04 | 7358 tok/s | 11.1 min
+--- sample @ 800 ---
+ROMEO:
+Eve thy hey caitus to heir not.
+Thengs hy seal so thought ur come:
+The you be my he in him.
+
+PORIOLUS:
+I the dothers, wome here gonsins of rey,
+On rever of the be see that her heir sepire macht,
+Le stell to and than I me, thin and as you her
+Wis that the thoush to the the dot.
+
+CUCLIOLO:
+The here o
+---
+saved checkpoint @ 800
+  step    800 | loss 1.9731 | lr 5.94e-04 | 7344 tok/s | 11.2 min
+  step    820 | loss 1.9566 | lr 5.94e-04 | 7358 tok/s | 11.4 min
+  step    840 | loss 1.9188 | lr 5.93e-04 | 7368 tok/s | 11.7 min
+  step    860 | loss 1.8738 | lr 5.93e-04 | 7374 tok/s | 12.0 min
+  step    880 | loss 1.9101 | lr 5.92e-04 | 7378 tok/s | 12.2 min
+  step    900 | loss 1.9050 | lr 5.92e-04 | 7392 tok/s | 12.5 min
+  step    920 | loss 1.9429 | lr 5.91e-04 | 7402 tok/s | 12.7 min
+  step    940 | loss 1.8933 | lr 5.91e-04 | 7409 tok/s | 13.0 min
+  step    960 | loss 1.8504 | lr 5.90e-04 | 7415 tok/s | 13.3 min
+  step    980 | loss 1.9159 | lr 5.90e-04 | 7421 tok/s | 13.5 min
+step   1000 | train 1.7642 | val 1.8727 | lr 5.89e-04 | 7385 tok/s | 13.9 min
+  step   1000 | loss 1.8747 | lr 5.89e-04 | 7385 tok/s | 13.9 min
+  step   1020 | loss 1.8802 | lr 5.88e-04 | 7397 tok/s | 14.1 min
+  step   1040 | loss 1.8786 | lr 5.88e-04 | 7396 tok/s | 14.4 min
+  step   1060 | loss 1.8295 | lr 5.87e-04 | 7408 tok/s | 14.7 min
+  step   1080 | loss 1.7779 | lr 5.86e-04 | 7417 tok/s | 14.9 min
+  step   1100 | loss 1.7995 | lr 5.86e-04 | 7426 tok/s | 15.2 min
+  step   1120 | loss 1.7977 | lr 5.85e-04 | 7428 tok/s | 15.5 min
+  step   1140 | loss 1.8134 | lr 5.84e-04 | 7434 tok/s | 15.7 min
+  step   1160 | loss 1.7653 | lr 5.84e-04 | 7438 tok/s | 16.0 min
+  step   1180 | loss 1.7856 | lr 5.83e-04 | 7441 tok/s | 16.3 min
+step   1200 | train 1.6765 | val 1.8067 | lr 5.82e-04 | 7413 tok/s | 16.6 min
+--- sample @ 1200 ---
+ROMEO:
+I Rehapent, as contres the cloud al the artrianters,
+The him abes for on us calre a make my beggare,
+And the news oalds be of that see hears day
+Which her the gentlently be not mists stale sill
+To for mayful gaint war unting the which our that;
+I tet he come it the make a ganter' your at ence
+To hi
+---
+saved checkpoint @ 1200
+  step   1200 | loss 1.7317 | lr 5.82e-04 | 7403 tok/s | 16.6 min
+  step   1220 | loss 1.7504 | lr 5.81e-04 | 7410 tok/s | 16.9 min
+  step   1240 | loss 1.7293 | lr 5.80e-04 | 7416 tok/s | 17.1 min
+  step   1260 | loss 1.7910 | lr 5.80e-04 | 7422 tok/s | 17.4 min
+  step   1280 | loss 1.7068 | lr 5.79e-04 | 7427 tok/s | 17.7 min
+  step   1300 | loss 1.7061 | lr 5.78e-04 | 7431 tok/s | 17.9 min
+  step   1320 | loss 1.7041 | lr 5.77e-04 | 7436 tok/s | 18.2 min
+  step   1340 | loss 1.7260 | lr 5.76e-04 | 7439 tok/s | 18.5 min
+  step   1360 | loss 1.7264 | lr 5.75e-04 | 7447 tok/s | 18.7 min
+  step   1380 | loss 1.7473 | lr 5.74e-04 | 7452 tok/s | 19.0 min
+step   1400 | train 1.6130 | val 1.7693 | lr 5.73e-04 | 7424 tok/s | 19.3 min
+  step   1400 | loss 1.6870 | lr 5.73e-04 | 7425 tok/s | 19.3 min
+  step   1420 | loss 1.6933 | lr 5.72e-04 | 7428 tok/s | 19.6 min
+  step   1440 | loss 1.6901 | lr 5.71e-04 | 7432 tok/s | 19.9 min
+  step   1460 | loss 1.6324 | lr 5.70e-04 | 7436 tok/s | 20.1 min
+  step   1480 | loss 1.6662 | lr 5.69e-04 | 7442 tok/s | 20.4 min
+  step   1500 | loss 1.6904 | lr 5.68e-04 | 7446 tok/s | 20.6 min
+  step   1520 | loss 1.6560 | lr 5.67e-04 | 7450 tok/s | 20.9 min
+  step   1540 | loss 1.6331 | lr 5.66e-04 | 7454 tok/s | 21.2 min
+  step   1560 | loss 1.6008 | lr 5.65e-04 | 7460 tok/s | 21.4 min
+  step   1580 | loss 1.6364 | lr 5.64e-04 | 7464 tok/s | 21.7 min
+step   1600 | train 1.5573 | val 1.7126 | lr 5.63e-04 | 7437 tok/s | 22.0 min
+--- sample @ 1600 ---
+ROMEO:
+Not to is how a conce and cornViolr,
+A dever and my sep of the tark been
+How the had
+Who attrive you answer of these speech the worse
+he prosse!
+
+AUTOLYCUS:
+Do, sir, the stertime would tot me,
+And more, for marrry, put we do the mester's to my hourse
+Ben thy world.
+
+MENENIUS:
+I am did a but man I w
+---
+saved checkpoint @ 1600
+  step   1600 | loss 1.6442 | lr 5.63e-04 | 7428 tok/s | 22.1 min
+  step   1620 | loss 1.6469 | lr 5.62e-04 | 7430 tok/s | 22.3 min
+  step   1640 | loss 1.6452 | lr 5.61e-04 | 7435 tok/s | 22.6 min
+  step   1660 | loss 1.6706 | lr 5.59e-04 | 7436 tok/s | 22.9 min
+  step   1680 | loss 1.6043 | lr 5.58e-04 | 7441 tok/s | 23.1 min
+  step   1700 | loss 1.6340 | lr 5.57e-04 | 7446 tok/s | 23.4 min
+  step   1720 | loss 1.6533 | lr 5.56e-04 | 7453 tok/s | 23.6 min
+  step   1740 | loss 1.6118 | lr 5.55e-04 | 7459 tok/s | 23.9 min
+  step   1760 | loss 1.6272 | lr 5.53e-04 | 7463 tok/s | 24.2 min
+  step   1780 | loss 1.6229 | lr 5.52e-04 | 7463 tok/s | 24.4 min
+step   1800 | train 1.5239 | val 1.7012 | lr 5.51e-04 | 7440 tok/s | 24.8 min
+  step   1800 | loss 1.5514 | lr 5.51e-04 | 7441 tok/s | 24.8 min
+  step   1820 | loss 1.5652 | lr 5.50e-04 | 7447 tok/s | 25.0 min
+  step   1840 | loss 1.5901 | lr 5.48e-04 | 7451 tok/s | 25.3 min
+  step   1860 | loss 1.5714 | lr 5.47e-04 | 7454 tok/s | 25.6 min
+  step   1880 | loss 1.6016 | lr 5.46e-04 | 7461 tok/s | 25.8 min
+  step   1900 | loss 1.5909 | lr 5.44e-04 | 7463 tok/s | 26.1 min
+  step   1920 | loss 1.5938 | lr 5.43e-04 | 7462 tok/s | 26.4 min
+  step   1940 | loss 1.5020 | lr 5.42e-04 | 7466 tok/s | 26.6 min
+  step   1960 | loss 1.5301 | lr 5.40e-04 | 7471 tok/s | 26.9 min
+  step   1980 | loss 1.6132 | lr 5.39e-04 | 7473 tok/s | 27.1 min
+step   2000 | train 1.4864 | val 1.6778 | lr 5.38e-04 | 7451 tok/s | 27.5 min
+--- sample @ 2000 ---
+ROMEO:
+By if the made sent of her lookie.
+Of the proce my lord at Romeo, our lord,
+With our e's comfortion the world;
+Richard is the mayst in the more, sir,
+And he king me and be shall for you are no her soun
+Which is a to with the live dead, he to become
+That the words aughter news King Hereford's son,
+N
+---
+saved checkpoint @ 2000
+  step   2000 | loss 1.5493 | lr 5.38e-04 | 7444 tok/s | 27.5 min
+  step   2020 | loss 1.5482 | lr 5.36e-04 | 7452 tok/s | 27.8 min
+  step   2040 | loss 1.5497 | lr 5.35e-04 | 7458 tok/s | 28.0 min
+  step   2060 | loss 1.5585 | lr 5.33e-04 | 7460 tok/s | 28.3 min
+  step   2080 | loss 1.5731 | lr 5.32e-04 | 7466 tok/s | 28.5 min
+  step   2100 | loss 1.5291 | lr 5.30e-04 | 7468 tok/s | 28.8 min
+  step   2120 | loss 1.5554 | lr 5.29e-04 | 7471 tok/s | 29.1 min
+  step   2140 | loss 1.5407 | lr 5.27e-04 | 7479 tok/s | 29.3 min
+  step   2160 | loss 1.5605 | lr 5.26e-04 | 7481 tok/s | 29.6 min
+  step   2180 | loss 1.5116 | lr 5.24e-04 | 7484 tok/s | 29.8 min
+step   2200 | train 1.4601 | val 1.6552 | lr 5.23e-04 | 7433 tok/s | 30.3 min
+  step   2200 | loss 1.5234 | lr 5.23e-04 | 7431 tok/s | 30.3 min
+  step   2220 | loss 1.6096 | lr 5.21e-04 | 7426 tok/s | 30.6 min
+  step   2240 | loss 1.5529 | lr 5.20e-04 | 7427 tok/s | 30.9 min
+  step   2260 | loss 1.5497 | lr 5.18e-04 | 7430 tok/s | 31.2 min
+  step   2280 | loss 1.5558 | lr 5.17e-04 | 7433 tok/s | 31.4 min
+  step   2300 | loss 1.5025 | lr 5.15e-04 | 7438 tok/s | 31.7 min
+  step   2320 | loss 1.5916 | lr 5.13e-04 | 7442 tok/s | 31.9 min
+  step   2340 | loss 1.5105 | lr 5.12e-04 | 7445 tok/s | 32.2 min
+  step   2360 | loss 1.5007 | lr 5.10e-04 | 7450 tok/s | 32.5 min
+  step   2380 | loss 1.5062 | lr 5.08e-04 | 7454 tok/s | 32.7 min
+step   2400 | train 1.4409 | val 1.6440 | lr 5.07e-04 | 7436 tok/s | 33.0 min
+--- sample @ 2400 ---
+ROMEO:
+Where where I do did not good to my touch.
+
+KING RICHARD II:
+These to your sunds them in the strike of thy death
+which you are strop on the this wish'd me for will the doown.
+
+LUCENTIO:
+I would were while to have a have you soul?
+
+ISABELLA:
+What, so so shall so be a do me.
+
+QUEEN MARGARET:
+Sir, O, 
+---
+saved checkpoint @ 2400
+  step   2400 | loss 1.5202 | lr 5.07e-04 | 7431 tok/s | 33.1 min
+  step   2420 | loss 1.5089 | lr 5.05e-04 | 7435 tok/s | 33.3 min
+  step   2440 | loss 1.5161 | lr 5.03e-04 | 7438 tok/s | 33.6 min
+  step   2460 | loss 1.5330 | lr 5.02e-04 | 7441 tok/s | 33.9 min
+  step   2480 | loss 1.4937 | lr 5.00e-04 | 7440 tok/s | 34.1 min
+  step   2500 | loss 1.5112 | lr 4.98e-04 | 7444 tok/s | 34.4 min
+  step   2520 | loss 1.5283 | lr 4.97e-04 | 7448 tok/s | 34.7 min
+  step   2540 | loss 1.4465 | lr 4.95e-04 | 7452 tok/s | 34.9 min
+  step   2560 | loss 1.4646 | lr 4.93e-04 | 7457 tok/s | 35.2 min
+  step   2580 | loss 1.5147 | lr 4.91e-04 | 7461 tok/s | 35.4 min
+step   2600 | train 1.4191 | val 1.6293 | lr 4.90e-04 | 7446 tok/s | 35.8 min
+  step   2600 | loss 1.5106 | lr 4.90e-04 | 7446 tok/s | 35.8 min
+  step   2620 | loss 1.4481 | lr 4.88e-04 | 7453 tok/s | 36.0 min
+  step   2640 | loss 1.4988 | lr 4.86e-04 | 7456 tok/s | 36.3 min
+  step   2660 | loss 1.4740 | lr 4.84e-04 | 7458 tok/s | 36.5 min
+  step   2680 | loss 1.4710 | lr 4.82e-04 | 7460 tok/s | 36.8 min
+  step   2700 | loss 1.4737 | lr 4.81e-04 | 7464 tok/s | 37.1 min
+  step   2720 | loss 1.4476 | lr 4.79e-04 | 7468 tok/s | 37.3 min
+  step   2740 | loss 1.4912 | lr 4.77e-04 | 7470 tok/s | 37.6 min
+  step   2760 | loss 1.4499 | lr 4.75e-04 | 7471 tok/s | 37.8 min
+  step   2780 | loss 1.4398 | lr 4.73e-04 | 7474 tok/s | 38.1 min
+step   2800 | train 1.3961 | val 1.6095 | lr 4.71e-04 | 7460 tok/s | 38.4 min
+--- sample @ 2800 ---
+ROMEO:
+What, shall provost do thy deprett the swords not world,
+To boath, who been I see I fellow,
+One is that vointage strep their letter
+Than the like up; and senterness a most being blood
+To see but him, thou me seem the is flower,
+And if he respured the kingly to the times and this paint
+The daughter 
+---
+saved checkpoint @ 2800
+  step   2800 | loss 1.4733 | lr 4.71e-04 | 7455 tok/s | 38.5 min
+  step   2820 | loss 1.4713 | lr 4.69e-04 | 7458 tok/s | 38.7 min
+  step   2840 | loss 1.5047 | lr 4.68e-04 | 7460 tok/s | 39.0 min
+  step   2860 | loss 1.5322 | lr 4.66e-04 | 7464 tok/s | 39.2 min
+  step   2880 | loss 1.4756 | lr 4.64e-04 | 7468 tok/s | 39.5 min
+  step   2900 | loss 1.4564 | lr 4.62e-04 | 7470 tok/s | 39.8 min
+  step   2920 | loss 1.4709 | lr 4.60e-04 | 7474 tok/s | 40.0 min
+  step   2940 | loss 1.4442 | lr 4.58e-04 | 7477 tok/s | 40.3 min
+  step   2960 | loss 1.4327 | lr 4.56e-04 | 7480 tok/s | 40.5 min
+  step   2980 | loss 1.4642 | lr 4.54e-04 | 7484 tok/s | 40.8 min
+step   3000 | train 1.3835 | val 1.6045 | lr 4.52e-04 | 7471 tok/s | 41.1 min
+  step   3000 | loss 1.4198 | lr 4.52e-04 | 7471 tok/s | 41.1 min
+  step   3020 | loss 1.4588 | lr 4.50e-04 | 7474 tok/s | 41.4 min
+  step   3040 | loss 1.4568 | lr 4.48e-04 | 7479 tok/s | 41.6 min
+  step   3060 | loss 1.4672 | lr 4.46e-04 | 7483 tok/s | 41.9 min
+  step   3080 | loss 1.4719 | lr 4.44e-04 | 7485 tok/s | 42.1 min
+  step   3100 | loss 1.4957 | lr 4.42e-04 | 7488 tok/s | 42.4 min
+  step   3120 | loss 1.4724 | lr 4.40e-04 | 7491 tok/s | 42.7 min
+  step   3140 | loss 1.4373 | lr 4.38e-04 | 7494 tok/s | 42.9 min
+  step   3160 | loss 1.4707 | lr 4.36e-04 | 7499 tok/s | 43.2 min
+  step   3180 | loss 1.4194 | lr 4.34e-04 | 7503 tok/s | 43.4 min
+step   3200 | train 1.3669 | val 1.5953 | lr 4.32e-04 | 7493 tok/s | 43.7 min
+--- sample @ 3200 ---
+ROMEO:
+Now and yet my father,
+And say, that all the world right
+It had thought o'clight the true head.
+
+DUKE VINCENTIO:
+To bear on, sir, thou canst thou art not,
+The good lords of men, which is death.
+
+CAPULET:
+Nay, he do I repart thee wooe'd for my son,
+That hot made the right report that repair a traito
+---
+saved checkpoint @ 3200
+  step   3200 | loss 1.4619 | lr 4.32e-04 | 7489 tok/s | 43.8 min
+  step   3220 | loss 1.4263 | lr 4.30e-04 | 7492 tok/s | 44.0 min
+  step   3240 | loss 1.4496 | lr 4.28e-04 | 7495 tok/s | 44.3 min
+  step   3260 | loss 1.4611 | lr 4.26e-04 | 7496 tok/s | 44.5 min
+  step   3280 | loss 1.4298 | lr 4.24e-04 | 7497 tok/s | 44.8 min
+  step   3300 | loss 1.4385 | lr 4.22e-04 | 7501 tok/s | 45.1 min
+  step   3320 | loss 1.4240 | lr 4.20e-04 | 7504 tok/s | 45.3 min
+  step   3340 | loss 1.4225 | lr 4.18e-04 | 7507 tok/s | 45.6 min
+  step   3360 | loss 1.4235 | lr 4.16e-04 | 7510 tok/s | 45.8 min
+  step   3380 | loss 1.4478 | lr 4.13e-04 | 7513 tok/s | 46.1 min
+step   3400 | train 1.3532 | val 1.5844 | lr 4.11e-04 | 7501 tok/s | 46.4 min
+  step   3400 | loss 1.3809 | lr 4.11e-04 | 7501 tok/s | 46.4 min
+  step   3420 | loss 1.4803 | lr 4.09e-04 | 7503 tok/s | 46.7 min
+  step   3440 | loss 1.4298 | lr 4.07e-04 | 7507 tok/s | 46.9 min
+  step   3460 | loss 1.3846 | lr 4.05e-04 | 7509 tok/s | 47.2 min
+  step   3480 | loss 1.4487 | lr 4.03e-04 | 7511 tok/s | 47.5 min
+  step   3500 | loss 1.4113 | lr 4.01e-04 | 7513 tok/s | 47.7 min
+  step   3520 | loss 1.4346 | lr 3.99e-04 | 7516 tok/s | 48.0 min
+  step   3540 | loss 1.3602 | lr 3.97e-04 | 7518 tok/s | 48.2 min
+  step   3560 | loss 1.3861 | lr 3.94e-04 | 7521 tok/s | 48.5 min
+  step   3580 | loss 1.4067 | lr 3.92e-04 | 7524 tok/s | 48.7 min
+step   3600 | train 1.3453 | val 1.5817 | lr 3.90e-04 | 7514 tok/s | 49.1 min
+--- sample @ 3600 ---
+ROMEO:
+I have beseech that lady thee.
+
+PETER:
+For the Gloucesters, my heart, which he name
+That read of a winder humour, they say on heaven
+The part of the more other. Both bed a chame
+Against him fellow impose and was majesty
+To him here do the earth, to desperate them justice,
+And sins the shall pleases
+---
+saved checkpoint @ 3600
+  step   3600 | loss 1.4031 | lr 3.90e-04 | 7510 tok/s | 49.1 min
+  step   3620 | loss 1.4154 | lr 3.88e-04 | 7511 tok/s | 49.4 min
+  step   3640 | loss 1.4002 | lr 3.86e-04 | 7514 tok/s | 49.6 min
+  step   3660 | loss 1.4539 | lr 3.84e-04 | 7518 tok/s | 49.9 min
+  step   3680 | loss 1.3967 | lr 3.81e-04 | 7520 tok/s | 50.1 min
+  step   3700 | loss 1.3993 | lr 3.79e-04 | 7524 tok/s | 50.4 min
+  step   3720 | loss 1.4053 | lr 3.77e-04 | 7527 tok/s | 50.6 min
+  step   3740 | loss 1.3503 | lr 3.75e-04 | 7530 tok/s | 50.9 min
+  step   3760 | loss 1.4561 | lr 3.73e-04 | 7532 tok/s | 51.1 min
+  step   3780 | loss 1.3840 | lr 3.71e-04 | 7535 tok/s | 51.4 min
+step   3800 | train 1.3287 | val 1.5689 | lr 3.68e-04 | 7524 tok/s | 51.7 min
+  step   3800 | loss 1.4688 | lr 3.68e-04 | 7524 tok/s | 51.7 min
+  step   3820 | loss 1.4181 | lr 3.66e-04 | 7527 tok/s | 52.0 min
+  step   3840 | loss 1.3779 | lr 3.64e-04 | 7530 tok/s | 52.2 min
+  step   3860 | loss 1.4042 | lr 3.62e-04 | 7532 tok/s | 52.5 min
+  step   3880 | loss 1.4201 | lr 3.60e-04 | 7535 tok/s | 52.7 min
+  step   3900 | loss 1.3538 | lr 3.57e-04 | 7537 tok/s | 53.0 min
+  step   3920 | loss 1.4020 | lr 3.55e-04 | 7539 tok/s | 53.3 min
+  step   3940 | loss 1.4156 | lr 3.53e-04 | 7540 tok/s | 53.5 min
+  step   3960 | loss 1.4342 | lr 3.51e-04 | 7542 tok/s | 53.8 min
+  step   3980 | loss 1.3898 | lr 3.49e-04 | 7546 tok/s | 54.0 min
+step   4000 | train 1.3218 | val 1.5696 | lr 3.47e-04 | 7535 tok/s | 54.4 min
+--- sample @ 4000 ---
+ROMEO:
+What, thou art boot; if I know not love to avid,
+He was here in the hands do grown them.
+
+DUKE OF AUMERLE:
+What is the would provost it out: if not be gone.
+
+ROMEO:
+There's imagins a glory, I think took you hear to be me?
+
+TRANIO:
+I'll clome too, my lord.
+
+SLY:
+I know trust.
+
+HORTENSIO:
+Give me mar
+---
+saved checkpoint @ 4000
+  step   4000 | loss 1.3601 | lr 3.47e-04 | 7532 tok/s | 54.4 min
+  step   4020 | loss 1.3696 | lr 3.44e-04 | 7534 tok/s | 54.7 min
+  step   4040 | loss 1.3811 | lr 3.42e-04 | 7537 tok/s | 54.9 min
+  step   4060 | loss 1.3665 | lr 3.40e-04 | 7539 tok/s | 55.2 min
+  step   4080 | loss 1.3766 | lr 3.38e-04 | 7541 tok/s | 55.4 min
+  step   4100 | loss 1.4168 | lr 3.36e-04 | 7542 tok/s | 55.7 min
+  step   4120 | loss 1.4226 | lr 3.33e-04 | 7543 tok/s | 55.9 min
+  step   4140 | loss 1.3650 | lr 3.31e-04 | 7545 tok/s | 56.2 min
+  step   4160 | loss 1.3886 | lr 3.29e-04 | 7546 tok/s | 56.5 min
+  step   4180 | loss 1.3501 | lr 3.27e-04 | 7549 tok/s | 56.7 min
+step   4200 | train 1.3123 | val 1.5579 | lr 3.24e-04 | 7540 tok/s | 57.0 min
+  step   4200 | loss 1.4165 | lr 3.24e-04 | 7540 tok/s | 57.1 min
+  step   4220 | loss 1.4117 | lr 3.22e-04 | 7541 tok/s | 57.3 min
+  step   4240 | loss 1.4014 | lr 3.20e-04 | 7543 tok/s | 57.6 min
+  step   4260 | loss 1.3636 | lr 3.18e-04 | 7544 tok/s | 57.8 min
+  step   4280 | loss 1.3160 | lr 3.16e-04 | 7546 tok/s | 58.1 min
+  step   4300 | loss 1.3676 | lr 3.13e-04 | 7547 tok/s | 58.4 min
+  step   4320 | loss 1.3512 | lr 3.11e-04 | 7549 tok/s | 58.6 min
+  step   4340 | loss 1.3511 | lr 3.09e-04 | 7551 tok/s | 58.9 min
+  step   4360 | loss 1.3675 | lr 3.07e-04 | 7552 tok/s | 59.1 min
+  step   4380 | loss 1.4120 | lr 3.05e-04 | 7553 tok/s | 59.4 min
