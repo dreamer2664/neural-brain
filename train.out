@@ -1,0 +1,20 @@
+brain: 1.83M params | vocab 65 | ctx 192 | batch 32 | tokens/step 6144 | steps 8000
+step      0 | train 4.1759 | val 4.1762 | lr 2.00e-06 | 0 tok/s | 0.1 min
+--- sample @ 0 ---
+ROMEO:RGN,v,$Uf:RT:,ojeo!z:WrkM3M;l'''AabCUYsrfIgK
+,::  XI?En
+33PUCY&!QddhV, ZG?qe&gAO!!!!e
+W.-VaASPm pu&idLtrsKl:vejw!qdVR&H,N:&RvHe3HRdzJqZfXVVTPPIItCERfq.
+Ih$L&&rZDrRIydsI
+IBfjnhXHttMdUWdkNdLO!O3K!gFZtNNU&KZZ pWlxwa,NfDKSQBQT3C HCoCllZmWPUfFFeTdwkjppNlgl!rwK;U QWw!QCjZIpBzMJCFQ3OoW:BYXJU:TT!WlmXfg&kfff
+---
+saved checkpoint @ 0
+  step      0 | loss 4.1812 | lr 2.00e-06 | 762 tok/s | 0.1 min
+  step     20 | loss 3.5888 | lr 4.20e-05 | 5293 tok/s | 0.4 min
+  step     40 | loss 3.2069 | lr 8.20e-05 | 6297 tok/s | 0.7 min
+  step     60 | loss 2.9751 | lr 1.22e-04 | 6670 tok/s | 0.9 min
+  step     80 | loss 2.7834 | lr 1.62e-04 | 6858 tok/s | 1.2 min
+  step    100 | loss 2.6864 | lr 2.02e-04 | 6961 tok/s | 1.5 min
+  step    120 | loss 2.5879 | lr 2.42e-04 | 7050 tok/s | 1.8 min
+  step    140 | loss 2.5899 | lr 2.82e-04 | 7132 tok/s | 2.0 min
+  step    160 | loss 2.5401 | lr 3.22e-04 | 7177 tok/s | 2.3 min

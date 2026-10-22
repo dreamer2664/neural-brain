@@ -40,9 +40,11 @@ class CharData:
 
 def get_batch(ids, block_size, batch_size, seed=None):
     """Sample a batch of (input, next-char-target) pairs."""
-    g = torch.Generator()
+    g = None
     if seed is not None:
+        g = torch.Generator()
         g.manual_seed(seed)
+    # generator=None -> global RNG, so consecutive training batches are different
     ix = torch.randint(len(ids) - block_size - 1, (batch_size,), generator=g)
     x = torch.stack([torch.from_numpy(ids[i: i + block_size]) for i in ix])
     y = torch.stack([torch.from_numpy(ids[i + 1: i + 1 + block_size]) for i in ix])

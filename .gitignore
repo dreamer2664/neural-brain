@@ -1,5 +1,1 @@
-__pycache__/
-*.pyc
-.env
-data/tinyshakespeare.txt
-train.out
+runs/*/ckpt.pt
