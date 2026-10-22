@@ -1,0 +1,2 @@
+step,train_loss,val_loss,lr,tok_per_sec,elapsed_s
+0,4.1759,4.1762,2.00e-06,0,6.2
